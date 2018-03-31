@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NGINXvsHAProxy:war exploded">
+    <output-path>$PROJECT_DIR$/target/app-1.0</output-path>
+    <root id="root" />
+  </artifact>
+</component>
